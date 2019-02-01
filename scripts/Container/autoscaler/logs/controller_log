@@ -1,0 +1,11 @@
+: 192.168.50.80: INFO: SCALING_DOWN: Old resource [] with IP 13.13.13.5 was removed from 192.168.50.80
+: 192.168.50.80: INFO: SCALED_UP: New resource [T2N1C4] with IP 13.13.13.5 and MGMT IP 192.1.243.139 available at 192.168.50.80
+: 192.168.50.80: INFO: SCALING_DOWN: Old resource [] with IP 13.13.13.5 was removed from 192.168.50.80
+: 192.168.50.80: INFO: SCALED_UP: New resource [T2N1C4] with IP 13.13.13.5 and MGMT IP 192.1.179.74 available at 192.168.50.66
+ThuDec1304:42:21EST2018: 192.168.50.80: INFO: SCALED_UP: New resource [T2N1C1] with IP 13.13.13.6 and MGMT IP 192.1.237.24 available at 192.168.50.80
+Thu Dec 13 04:44:38 EST 2018: 192.168.50.80: INFO: SCALING_DOWN: Old resource [] with IP 13.13.13.6 was removed from 192.168.50.80
+Thu Dec 13 04:44:55 EST 2018: 192.168.50.80: INFO: SCALED_UP: New resource [T2N1C1] with IP 13.13.13.6 and MGMT IP 192.1.240.147 available at 192.168.50.80
+Thu Dec 13 04:45:36 EST 2018: 192.168.50.80: INFO: SCALING_DOWN: Old resource [] with IP 13.13.13.6 was removed from 192.168.50.80
+Thu Dec 13 04:45:56 EST 2018: 192.168.50.80: INFO: SCALED_UP: New resource [T2N1C1] with IP 13.13.13.6 and MGMT IP 192.1.131.202 available at 192.168.50.80
+Thu Dec 13 04:45:57 EST 2018: 192.168.50.80: INFO: SCALING_DOWN: Old resource [] with IP 13.13.13.3 was removed from 192.168.50.80
+Thu Dec 13 04:46:16 EST 2018: 192.168.50.80: INFO: SCALED_UP: New resource [T2N1C2] with IP 13.13.13.3 and MGMT IP 192.1.12.199 available at 192.168.50.80

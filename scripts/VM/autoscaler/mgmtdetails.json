@@ -1,0 +1,21 @@
+{
+  "ControllerIP": "192.168.100.88",
+  "ControllerNetworkName": "Controller-T1",
+  "vethIP": "1.1.1.1",
+  "VMPrefix": "V",
+  "mgmtHypervisor": "192.168.50.80",
+  "mgmtHypervisorUser": "root",
+  "HypervisorList": 
+  [
+    {
+      "IP": "192.168.50.80",
+      "User": "root",
+      "Count": "1"
+    },
+    {
+      "IP": "192.168.50.66",
+      "User": "root",
+      "Count": "2"
+    }
+  ]
+}
